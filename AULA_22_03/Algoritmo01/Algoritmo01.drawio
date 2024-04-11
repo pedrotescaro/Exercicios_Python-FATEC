@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-03-21T11:42:09.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Yo0FXZfvZ4A2rQqDVQJX" version="24.0.7" type="device">
+  <diagram name="Página-1" id="rAqNGryPovY37Stfegg2">
+    <mxGraphModel dx="1114" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yKqDKxN6qXmah8Aj0tQ-1" target="3yKqDKxN6qXmah8Aj0tQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yKqDKxN6qXmah8Aj0tQ-2" target="3yKqDKxN6qXmah8Aj0tQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Número" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="255" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-4" value="Quadrado &amp;lt;- pow(Número, expoente = 2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="349" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yKqDKxN6qXmah8Aj0tQ-8" target="3yKqDKxN6qXmah8Aj0tQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-8" value="Informe um numero" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="361.5" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=46.25;exitDy=60;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3yKqDKxN6qXmah8Aj0tQ-11" target="3yKqDKxN6qXmah8Aj0tQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-11" value="Quadrado" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="460" width="98" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=46.25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3yKqDKxN6qXmah8Aj0tQ-4" target="3yKqDKxN6qXmah8Aj0tQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yKqDKxN6qXmah8Aj0tQ-13" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="578" width="96" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
